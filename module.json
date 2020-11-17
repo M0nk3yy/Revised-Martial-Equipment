@@ -1,0 +1,36 @@
+{   
+   "name": "Revised-Martial-Equipment",   
+   "title": "Revised Martial Equipment",   
+   "description": "This module adds compendiums containing macros, items, and feats for the Curse of Strahd campaign.",   
+   "author": "Monkeyy#1250",
+   "version": "1.1.5",
+   "systems": ["dnd5e"],
+   "minimumCoreVersion": "0.7.6",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+    {
+      "name": "items",
+      "label": "RME Equipment",
+      "path": "packs/rme-equipment.db",
+      "entity": "Item",
+      "module": "Revised-Martial-Equipment"
+    },
+    {
+      "name": "journals",
+      "label": "RME Rules",
+      "path": "packs/rme-rules.db",
+      "entity": "JournalEntry",
+      "module": "Revised-Martial-Equipment"
+    },
+    {
+      "name": "items",
+      "label": "RME Feats",
+      "path": "packs/rmefeats.db",
+      "entity": "Item",
+      "module": "Revised-Martial-Equipment"
+    }
+  ],
+	"url": "https://github.com/M0nk3yy/Revised-Martial-Equipment/",
+	"manifest": "https://raw.githubusercontent.com/M0nk3yy/Revised-Martial-Equipment/master/module.json",
+	"download": "https://github.com/M0nk3yy/Revised-Martial-Equipment/archive/v0.0.1.zip"
+ }
