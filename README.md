@@ -1,7 +1,7 @@
 ![All Downloads](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/total?style=for-the-badge)
 ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/latest/total?style=for-the-badge)
 
-# Revised-Martial-Equipment
+# Revised Martial Equipment
 
 RME is a comprehensive overhaul of weaponry and martial techniques for D&D 5e by Commander Fayne. It aims to make martial classes more powerful, varied, and interesting. It rewrites feats, completely changes the balance of all weapons, and adds numerous new weapons and actions. It is **strongly** advised that you read Commander Faynes full homebrew before attempting to use it in your campaign!
 
