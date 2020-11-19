@@ -1,10 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/total)
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/Revised-Martial-Equipment) 
-
-![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/latest/total)
-
-![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/Revised-Martial-Equipment) 
+![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/Revised-Martial-Equipment)  ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/latest/total) ![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/Revised-Martial-Equipment) 
 
 
 
