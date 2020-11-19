@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/total) ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/latest/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/Revised-Martial-Equipment)  ![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/Revised-Martial-Equipment) 
+![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/total) ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/Revised-Martial-Equipment/latest/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/Revised-Martial-Equipment)  ![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/Revised-Martial-Equipment) ![](https://img.shields.io/badge/Foundry-v0.7.7-informational)
 
 
 
