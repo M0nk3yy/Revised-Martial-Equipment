@@ -10,6 +10,12 @@ RME - https://homebrewery.naturalcrit.com/share/rkvBDfQlE
 
 The alterations included in RME make martial characters **considerably** more powerful. Do not be surprised when they excel in combat, tear through standard encounters, and perhaps even outshine magic users! Considering magic users can literally bend reality at high levels, this should be seen as a fair trade.
 
+Weapons currently **not** included:
+
+- Side Baton
+- Hook Sword
+- Lucerne
+
 Whilst I have done my best to translate this homebrew to Foundry VTT, many of it's elements do not play well in a VTT environment. If you have any feedback on potential improvements, or you spot any errors/bugs, please log an issue here on github.
 
 You can find me on the Foundry VTT official Discord (Monkeyy#1250 https://discord.gg/foundryvtt)
