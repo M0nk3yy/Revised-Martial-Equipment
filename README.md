@@ -15,6 +15,8 @@ Weapons currently **not** included:
 - Side Baton
 - Hook Sword
 - Lucerne
+- Firelance
+- Pepperbox
 
 Whilst I have done my best to translate this homebrew to Foundry VTT, many of it's elements do not play well in a VTT environment. If you have any feedback on potential improvements, or you spot any errors/bugs, please log an issue here on github.
 
